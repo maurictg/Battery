@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\Testproj\Testproj\obj\Debug\Testproj.csprojAssemblyReference.cache
+C:\Users\mauri\source\repos\Testproj\Testproj\obj\Debug\Testproj.Properties.Resources.resources
+C:\Users\mauri\source\repos\Testproj\Testproj\obj\Debug\Testproj.csproj.GenerateResource.cache
+C:\Users\mauri\source\repos\Testproj\Testproj\obj\Debug\Testproj.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Testproj\Testproj\bin\Debug\Battery.exe.config
+C:\Users\mauri\source\repos\Testproj\Testproj\bin\Debug\Battery.exe
+C:\Users\mauri\source\repos\Testproj\Testproj\bin\Debug\Battery.pdb
+C:\Users\mauri\source\repos\Testproj\Testproj\obj\Debug\Battery.exe
+C:\Users\mauri\source\repos\Testproj\Testproj\obj\Debug\Battery.pdb
+C:\Users\mauri\source\repos\Testproj\Testproj\obj\Debug\Testproj.Batterij.resources
